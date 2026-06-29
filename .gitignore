@@ -1,0 +1,8 @@
+venv/
+termio_config.json
+termio_history.jsonl
+app_cache.json
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
